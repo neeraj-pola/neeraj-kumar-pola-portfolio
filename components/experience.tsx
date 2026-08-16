@@ -10,6 +10,19 @@ export default function Experience() {
      Work Experience
   ---------------------------- */
   const experiences = [
+      {
+      title: "AI Engineer",
+      company: "VRT Management Group, LLC",
+      period: "Mar 2026 - Present",
+      achievements: [
+        "Led a company-wide AI automation initiative using n8n and LangChain, automating 8+ business workflows and cutting manual processing time by 70%.",
+        "Built an 8-agent recruitment pipeline (LangGraph, FastAPI, Streamlit) that turns a raw job description into a ranked, audited shortlist with personalized outreach in under 2 minutes for $0.05 in LLM cost, validated at a 100% pass rate across a 10-job regression suite.",
+        "Built a hybrid retrieval and scoring system (vector search, keyword search, cross-encoder reranking) running 300 evidence-backed evaluations per job, with bias safeguards that screen job descriptions in under 2 seconds and strip names before scoring.",
+        "Simplified candidate sourcing by replacing three separate job board integrations with a single spreadsheet upload, cutting integration overhead while holding 100% recall on duplicate detection across 110 candidates."
+      ],
+      metrics: ["8+ business workflows", "70% Faster"],
+    },
+    
     {
       title: "Machine Learning Engineer Intern",
       company: "Media Sales Plus",
