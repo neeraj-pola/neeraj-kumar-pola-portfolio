@@ -61,7 +61,7 @@ export default function Navigation() {
             ))}
 
             <a
-              href="https://github.com/neeraj-pola/Resumes/blob/main/Neeraj_Pola_Resume.pdf"
+              href="https://github.com/neeraj-pola/Resumes/blob/main/Neeraj_Kumar_Pola_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
